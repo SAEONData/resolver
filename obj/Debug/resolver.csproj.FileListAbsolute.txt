@@ -1,0 +1,78 @@
+C:\inetpub\wwwroot\saeon\resolver\bin\resolver.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\resolver.pdb
+C:\inetpub\wwwroot\saeon\resolver\obj\Debug\resolver.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\saeon\resolver\obj\Debug\resolver.dll
+C:\inetpub\wwwroot\saeon\resolver\obj\Debug\resolver.pdb
+C:\inetpub\wwwroot\saeon\resolver\bin\portal.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\Npgsql.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\System.Net.Http.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\portalConfig.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\NetTopologySuite.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\SharpMap.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\GeoAPI.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\Excel.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\HtmlAgilityPack.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\Mono.Security.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\PowerCollections.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\Common.Logging.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\BruTile.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\BruTile.Desktop.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\ProjNet.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\ICSharpCode.SharpZipLib.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\portal.pdb
+C:\inetpub\wwwroot\saeon\resolver\bin\Npgsql.xml
+C:\inetpub\wwwroot\saeon\resolver\bin\System.Net.Http.xml
+C:\inetpub\wwwroot\saeon\resolver\bin\portalConfig.pdb
+C:\inetpub\wwwroot\saeon\resolver\bin\SharpMap.pdb
+C:\inetpub\wwwroot\saeon\resolver\bin\SharpMap.xml
+C:\inetpub\wwwroot\saeon\resolver\bin\Newtonsoft.Json.pdb
+C:\inetpub\wwwroot\saeon\resolver\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\saeon\resolver\bin\HtmlAgilityPack.pdb
+C:\inetpub\wwwroot\saeon\resolver\bin\HtmlAgilityPack.xml
+C:\inetpub\wwwroot\saeon\resolver\bin\de\Npgsql.resources.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\es\Npgsql.resources.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\fi\Npgsql.resources.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\fr\Npgsql.resources.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\ja\Npgsql.resources.dll
+C:\inetpub\wwwroot\saeon\resolver\bin\zh-CN\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\obj\Debug\resolver.csprojAssemblyReference.cache
+C:\Users\LanceM\Documents\Git Repos\resolver\obj\Debug\resolver.csproj.CoreCompileInputs.cache
+C:\Users\LanceM\Documents\Git Repos\resolver\obj\Debug\resolver.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\obj\Debug\resolver.pdb
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\resolver.dll.config
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\resolver.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\resolver.pdb
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\portal.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Npgsql.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\portalConfig.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\NetTopologySuite.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\SharpMap.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\GeoAPI.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\System.Web.Helpers.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Excel.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Newtonsoft.Json.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\HtmlAgilityPack.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Mono.Security.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\PowerCollections.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Common.Logging.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\BruTile.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\BruTile.Desktop.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\ProjNet.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\portal.pdb
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Npgsql.xml
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\SharpMap.pdb
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\SharpMap.xml
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\System.Web.Helpers.xml
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Newtonsoft.Json.pdb
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\Newtonsoft.Json.xml
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\HtmlAgilityPack.pdb
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\HtmlAgilityPack.xml
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\de\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\es\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\fi\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\fr\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\ja\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\bin\zh-CN\Npgsql.resources.dll
+C:\Users\LanceM\Documents\Git Repos\resolver\obj\Debug\resolver.csproj.CopyComplete
